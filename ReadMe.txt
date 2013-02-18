@@ -1,1 +1,1 @@
-This is an analog clock that I did as a programming assignment for my intro level class. It uses a Tkinter canvas for drawing the clock face and arms. 
+This is an analog clock that I did as a programming assignment for my intro level Computer Programming class. It uses a Tkinter canvas for drawing the clock face and arms. 
